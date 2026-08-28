@@ -2,5 +2,7 @@
   <Folder Name="/28/">
     <Project Path="the strongest beam/the strongest beam.csproj" />
   </Folder>
-  <Folder Name="/37/" />
+  <Folder Name="/37/">
+    <Project Path="../horsesinconflict/horsesinconflict.csproj" />
+  </Folder>
 </Solution>
